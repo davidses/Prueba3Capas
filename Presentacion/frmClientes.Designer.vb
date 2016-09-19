@@ -173,14 +173,14 @@ Partial Class frmClientes
         Me.dgvClientes.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
         Me.dgvClientes.Location = New System.Drawing.Point(12, 344)
         Me.dgvClientes.Name = "dgvClientes"
-        Me.dgvClientes.Size = New System.Drawing.Size(616, 285)
+        Me.dgvClientes.Size = New System.Drawing.Size(396, 140)
         Me.dgvClientes.TabIndex = 14
         '
         'frmClientes
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(640, 641)
+        Me.ClientSize = New System.Drawing.Size(413, 493)
         Me.Controls.Add(Me.dgvClientes)
         Me.Controls.Add(Me.Label6)
         Me.Controls.Add(Me.btnEliminar)

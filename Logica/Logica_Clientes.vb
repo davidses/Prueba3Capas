@@ -8,6 +8,10 @@ Public Class Logica_Clientes
         Return objCli.ListaClientes
     End Function
 
+    Public Function BuscaCliente(ByVal id As String) As DataSet
+        Return objCli.BuscaCliente(id)
+    End Function
+
     Public Shared Sub Main()
 
     End Sub

@@ -5,3 +5,10 @@ C:\Users\Adrian\Documents\PROYECTOS\PruebaCapa3\BaseDatos\bin\Debug\Entidades.pd
 C:\Users\Adrian\Documents\PROYECTOS\PruebaCapa3\BaseDatos\obj\Debug\BaseDatos.vbprojResolveAssemblyReference.cache
 C:\Users\Adrian\Documents\PROYECTOS\PruebaCapa3\BaseDatos\obj\Debug\BaseDatos.exe
 C:\Users\Adrian\Documents\PROYECTOS\PruebaCapa3\BaseDatos\obj\Debug\BaseDatos.pdb
+C:\Users\ST\Documents\PROYECTOS\Prueba3Capas\BaseDatos\bin\Debug\BaseDatos.exe
+C:\Users\ST\Documents\PROYECTOS\Prueba3Capas\BaseDatos\bin\Debug\BaseDatos.pdb
+C:\Users\ST\Documents\PROYECTOS\Prueba3Capas\BaseDatos\bin\Debug\Entidades.exe
+C:\Users\ST\Documents\PROYECTOS\Prueba3Capas\BaseDatos\bin\Debug\Entidades.pdb
+C:\Users\ST\Documents\PROYECTOS\Prueba3Capas\BaseDatos\obj\Debug\BaseDatos.vbprojResolveAssemblyReference.cache
+C:\Users\ST\Documents\PROYECTOS\Prueba3Capas\BaseDatos\obj\Debug\BaseDatos.exe
+C:\Users\ST\Documents\PROYECTOS\Prueba3Capas\BaseDatos\obj\Debug\BaseDatos.pdb

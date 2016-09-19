@@ -7,3 +7,12 @@ C:\Users\Adrian\Documents\PROYECTOS\PruebaCapa3\Logica\bin\Debug\Entidades.pdb
 C:\Users\Adrian\Documents\PROYECTOS\PruebaCapa3\Logica\obj\Debug\Logica.vbprojResolveAssemblyReference.cache
 C:\Users\Adrian\Documents\PROYECTOS\PruebaCapa3\Logica\obj\Debug\Logica.exe
 C:\Users\Adrian\Documents\PROYECTOS\PruebaCapa3\Logica\obj\Debug\Logica.pdb
+C:\Users\ST\Documents\PROYECTOS\Prueba3Capas\Logica\bin\Debug\Logica.exe
+C:\Users\ST\Documents\PROYECTOS\Prueba3Capas\Logica\bin\Debug\Logica.pdb
+C:\Users\ST\Documents\PROYECTOS\Prueba3Capas\Logica\bin\Debug\BaseDatos.exe
+C:\Users\ST\Documents\PROYECTOS\Prueba3Capas\Logica\bin\Debug\Entidades.exe
+C:\Users\ST\Documents\PROYECTOS\Prueba3Capas\Logica\bin\Debug\BaseDatos.pdb
+C:\Users\ST\Documents\PROYECTOS\Prueba3Capas\Logica\bin\Debug\Entidades.pdb
+C:\Users\ST\Documents\PROYECTOS\Prueba3Capas\Logica\obj\Debug\Logica.vbprojResolveAssemblyReference.cache
+C:\Users\ST\Documents\PROYECTOS\Prueba3Capas\Logica\obj\Debug\Logica.exe
+C:\Users\ST\Documents\PROYECTOS\Prueba3Capas\Logica\obj\Debug\Logica.pdb

@@ -20,4 +20,17 @@ Public Class DAOCliente
         cn.Dispose()
     End Function
 
+    Public Function BuscaCliente(ByVal id As String) As DataSet
+        Dim ds As New DataSet
+        cn = objCon.Conectar
+        da = New OleDbDataAdapter("SELECT * FROM Clientes WHERE Id=" & id, cn)
+        da.Fill(ds, "Clientes")
+
+        Return ds
+
+        ds.Dispose()
+        da.Dispose()
+        cn.Dispose()
+    End Function
+
 End Class

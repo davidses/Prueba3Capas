@@ -2,3 +2,7 @@ C:\Users\Adrian\Documents\PROYECTOS\PruebaCapa3\Entidades\bin\Debug\Entidades.ex
 C:\Users\Adrian\Documents\PROYECTOS\PruebaCapa3\Entidades\bin\Debug\Entidades.pdb
 C:\Users\Adrian\Documents\PROYECTOS\PruebaCapa3\Entidades\obj\Debug\Entidades.exe
 C:\Users\Adrian\Documents\PROYECTOS\PruebaCapa3\Entidades\obj\Debug\Entidades.pdb
+C:\Users\ST\Documents\PROYECTOS\Prueba3Capas\Entidades\bin\Debug\Entidades.exe
+C:\Users\ST\Documents\PROYECTOS\Prueba3Capas\Entidades\bin\Debug\Entidades.pdb
+C:\Users\ST\Documents\PROYECTOS\Prueba3Capas\Entidades\obj\Debug\Entidades.exe
+C:\Users\ST\Documents\PROYECTOS\Prueba3Capas\Entidades\obj\Debug\Entidades.pdb
