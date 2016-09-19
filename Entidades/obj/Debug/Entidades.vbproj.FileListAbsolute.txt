@@ -1,0 +1,4 @@
+C:\Users\Adrian\Documents\PROYECTOS\PruebaCapa3\Entidades\bin\Debug\Entidades.exe
+C:\Users\Adrian\Documents\PROYECTOS\PruebaCapa3\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Adrian\Documents\PROYECTOS\PruebaCapa3\Entidades\obj\Debug\Entidades.exe
+C:\Users\Adrian\Documents\PROYECTOS\PruebaCapa3\Entidades\obj\Debug\Entidades.pdb
